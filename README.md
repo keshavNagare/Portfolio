@@ -1,10 +1,10 @@
-#Portfolio Website
+# Portfolio Website<br>
 
-It is the Simple Portfolio website.
-There are various section we added that helps to Know about the Persons abilities.
-Sections present in that Project : 
-  1.About
-  2.Skills
-  3.Projects
-  4.Contact
+It is the Simple Portfolio website.<br>
+There are various section we added that helps to Know about the Persons abilities.<br><br>
+Sections present in that Project : <br>
+  1.About<br>
+  2.Skills<br>
+  3.Projects<br>
+  4.Contact<br>
   
